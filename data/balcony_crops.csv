@@ -1,0 +1,31 @@
+crop_name,min_sunlight,max_sunlight,min_temp,max_temp,min_pot_liters,min_space_sqft,water_need,wind_tolerance,season,difficulty,growth_days,crop_type,care
+Mint,3,6,15,35,5,1,High,High,All,Easy,45,Herb,Keep soil evenly moist; pinch tips for bushier growth.
+Coriander,3,6,15,30,5,1,Medium,Medium,Winter,Easy,35,Herb,Sow in succession and harvest outer stems first.
+Spinach,3,5,10,25,8,1,Medium,Medium,Winter,Easy,40,Leafy,Give afternoon shade in warm weather and harvest young leaves.
+Basil,5,8,18,35,8,1,High,Medium,Summer,Easy,60,Herb,Harvest above leaf pairs and remove flower buds.
+Parsley,3,6,10,25,8,1,Medium,Medium,All,Easy,70,Herb,Use rich potting mix and keep moisture consistent.
+Chives,4,7,10,25,5,1,Medium,High,All,Easy,60,Herb,Trim regularly and provide good drainage.
+Thyme,6,8,15,30,5,1,Low,High,All,Easy,75,Herb,Let the top layer dry between waterings.
+Rosemary,6,8,15,32,15,2,Low,High,All,Medium,90,Herb,Use a deep pot and water only when soil is dry.
+Oregano,5,8,15,32,8,1,Low,High,All,Easy,75,Herb,Provide strong light and pinch growing tips.
+Lemongrass,6,8,20,35,15,2,Medium,Medium,Summer,Easy,100,Herb,Keep warm and harvest outer stalks at the base.
+Green_Chilli,6,8,20,35,12,2,Medium,Medium,Summer,Medium,90,Vegetable,Stake the plant and feed every few weeks.
+Tomato,6,8,18,32,20,3,High,Low,Summer,Medium,100,Vegetable,Use a sturdy support and water at the soil line.
+Cherry_Tomato,6,8,18,32,15,2,High,Medium,Summer,Easy,85,Vegetable,Choose a compact variety and tie stems to a support.
+Cucumber,6,8,20,35,20,3,High,Medium,Summer,Medium,70,Vegetable,Provide a trellis and do not let the pot dry out.
+Beans,6,8,18,32,15,2,Medium,Medium,Summer,Easy,60,Vegetable,Train vines upward and pick pods frequently.
+Bush_Bean,5,8,18,32,12,2,Medium,Medium,Summer,Easy,55,Vegetable,Use a wide container and harvest young pods.
+Carrot,5,7,10,25,12,1,Medium,High,Winter,Medium,75,Root,Use loose soil and a deep container for straight roots.
+Radish,4,7,10,25,8,1,Medium,High,Winter,Easy,30,Root,Keep soil moist and sow small batches every two weeks.
+Beetroot,4,7,10,25,12,1,Medium,Medium,Winter,Easy,60,Root,Thin seedlings and harvest both roots and leaves.
+Lettuce,3,6,10,25,8,1,Medium,Medium,Winter,Easy,45,Leafy,Give bright indirect light in hot weather.
+Kale,4,7,10,28,12,1,Medium,High,Winter,Easy,60,Leafy,Harvest lower leaves and protect from intense afternoon heat.
+Swiss_Chard,4,7,10,30,12,1,Medium,Medium,All,Easy,55,Leafy,Harvest outer leaves continuously for a long crop.
+Arugula,3,6,10,25,5,1,Medium,Medium,Winter,Easy,35,Leafy,Succession sow and harvest before flowering.
+Fenugreek,3,6,15,30,5,1,Medium,Medium,Winter,Easy,30,Leafy,Harvest young leaves often and avoid waterlogging.
+Peas,5,7,10,24,15,2,Medium,Medium,Winter,Medium,65,Vegetable,Add a trellis and harvest pods while tender.
+Okra,6,8,22,35,20,3,Medium,Medium,Summer,Medium,80,Vegetable,Use a deep pot and pick pods every other day.
+Eggplant,6,8,20,35,20,3,Medium,Low,Summer,Medium,100,Vegetable,"Give warmth, support, and a large stable container."
+Bell_Pepper,6,8,18,32,15,2,Medium,Medium,Summer,Medium,95,Vegetable,Keep evenly watered and protect from strong wind.
+Strawberry,5,8,15,28,8,1,Medium,Medium,All,Medium,90,Fruit,Use a sunny hanging pot and keep fruit off wet soil.
+Microgreens,2,5,15,25,3,1,Medium,Medium,All,Easy,14,Leafy,Mist lightly and harvest with clean scissors.
